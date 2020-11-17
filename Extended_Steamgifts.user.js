@@ -12,6 +12,7 @@
 // @homepage	https://github.com/nandee95/Extended_Steamgifts
 // @grant	   none
 // @license	 MIT
+// @require       http://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.js
 // ==/UserScript==
 /*
 Changelog:
